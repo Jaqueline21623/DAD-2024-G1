@@ -1,4 +1,4 @@
-spring:
+m spring:
   application:
     name: ms-catalogo-service
   profiles:
